@@ -1,4 +1,4 @@
-# 🐳 Administrador Profesional Docker
+# 🐳 Administrador  Docker
 
 Administrador de Docker en Bash para Debian y sistemas compatibles. Permite gestionar contenedores e imágenes de manera intuitiva, profesional y segura, usando root o sudo.
 
@@ -23,6 +23,12 @@ Administrador de Docker en Bash para Debian y sistemas compatibles. Permite gest
 - ⚠️ Nota: Solo funciona con contenedores gestionados por Docker, no por Podman directamente.
 
 ---
+
+![Captura del Administrador Docker](https://raw.githubusercontent.com/moleculax/docker-admin/main/screen.png)
+
+![Captura del Administrador Docker](https://raw.githubusercontent.com/moleculax/docker-admin/main/screen_2.png)
+
+
 
 ## 📝 Requisitos
 
