@@ -34,9 +34,10 @@ Administrador de Docker en Bash para Debian y sistemas compatibles. Permite gest
 
 ## 🚀 Uso
 
-1. Clonar o descargar el script:
+1. Clonar o descargar el script luego:
 
 ```bash
-wget https://ruta-a-tu-script/docker_admin.sh
+cd ruta-a-tu-script/
 chmod +x docker_admin.sh
+./docker_admin.sh
 ```
