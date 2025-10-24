@@ -24,7 +24,7 @@ Administrador de Docker en Bash para Debian y sistemas compatibles. Permite gest
 
 ---
 
-![Captura del Administrador Docker]([https://raw.githubusercontent.com/moleculax/docker-admin/main/screen.png](https://blogger.googleusercontent.com/img/a/AVvXsEi07Qo0R3eSTiXnm2fO2rifzoa2lFukHHlsEehkp8Bkt2wucN5XbxkvyfpaSjU1FZFJgn6I-d4vjALE9E2sus1a5WtWLHmGRzQTI1Yba7PeMC1dqFTcbwgyATcNBcZuoYtWemFbIjWYXBV3zUVnr096UxJq1yqXlDlBN7PdiCs38gktAWQF8Yo2sCQMLK8N)
+
 
 ![Captura del Administrador Docker](https://raw.githubusercontent.com/moleculax/docker-admin/main/screen_2.png)
 
